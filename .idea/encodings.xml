@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/controller/consoleController/CarteActionController.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/controller/consoleController/ConsolePartieActionController.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/model/cartes/AngryMob.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/view/ConsolePartieView.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/view/carteInputGUI/AngryMobUI.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/view/carteInputGUI/CauIdronUI.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/view/carteInputGUI/HookedNoseUI.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/view/carteInputGUI/PetNewtUI.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/view/carteInputGUI/PointedHatUI.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/view/carteInputGUI/ToadUI.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/view/guiView/GUIPartieView.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/view/guiView/InitialisationJeu.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/view/guiView/JoueurUI.java" charset="windows-1252" />
+    <file url="PROJECT" charset="windows-1252" />
+  </component>
+</project>
